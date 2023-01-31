@@ -1,4 +1,6 @@
 # Pyhton-pratikleri
-Pyhton programla dilini öğrenirken yazdıklarımı unutmamak için ve ileride geri dönüp bakmak için
-üşenmezsem yazıklarımın hepsini buraya atacağım
+Python öğrenme yolculuğumda yararlandığım kodlar
+telefonla rahat rahat kodlara bakabilmek için github a attım
+kodların çoğunluğu mustafa murat çoşkun'un github sayfasından alınmıştır
+
 
